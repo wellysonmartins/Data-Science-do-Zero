@@ -5,7 +5,7 @@ Arquivos do Livro Data Science do Zero (Joel Grus)
 - [x] 1. Introdução
 - [x] 2. Curso Relâmpado de Python
 - [x] 3. Visualizando Dados
-- [ ] 4. Algebra Linear
+- [x] 4. Algebra Linear
 - [ ] 5. Estatística
 - [ ] 6. Probabilidade
 - [ ] 7. Hipótese e Inferência
